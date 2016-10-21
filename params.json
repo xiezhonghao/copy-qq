@@ -1,6 +1,0 @@
-{
-  "name": "Copy-qq",
-  "tagline": "",
-  "body": "# copy-qq\r\n\r\n## 在公司自己学习vuejs的时候，模拟qq的界面写的一个聊天框，没有异步数据的传输。",
-  "note": "Don't delete this file! It's used internally to help with page regeneration."
-}
